@@ -1,0 +1,16 @@
+- **Title** : All things wood
+- **Description** : A collection of information of working with wood, from glues to wood finishes.
+- **Author** : 'Anpanator'
+- **Website** : https://github.com/Anpanator
+- **License** : CC0-1.0
+- **Source** : https://github.com/Anpanator/all-things-wood
+- **Last update** : Mar 16, 2020
+- **Modifications** : 
+  - Included "all-things-wood.adoc" in "README.adoc", removed "all-things-wood.adoc"
+  - renamed '.adoc' file extension to '.md'
+  - in "README.md", "wood-finishes.md" and "wood-glues.md" :
+    - replace title lines : ==== by ####, === by ###, == by # and = by #
+  - in "wood-glues.md" :
+      - replace the 3 tables (starting with [horizontal]) by Markdown tables.
+  -in "wood-finishes.md" and "wood-glues.md" :
+      - replace WARNING: to **WARNING:**
